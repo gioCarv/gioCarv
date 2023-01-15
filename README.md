@@ -40,8 +40,8 @@
  <summary><b>☎ Contato ☎</b></summary>
  <br>
 
- <a href = "https://giocarv.github.io/portifolio/">
- <img src ='https://img.shields.io/badge/-Portifolio-yellow'>
+ <a href = "https://giocarv.github.io/portfolio/">
+ <img src ='https://img.shields.io/badge/-Portfolio-yellow'>
  </a>
  <a href = "https://www.linkedin.com/in/giocarv">
  <img src ='https://img.shields.io/badge/-Linkedin-lightgrey'>
